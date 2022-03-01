@@ -26,7 +26,7 @@ Installing Node & npm
 Installing Rage:
   ```
   $ cd ~/Desktop
-  $ git clone -
+  $ git clone https://github.com/MatrixBytes/Rage.git
   $ cd Rage
   $ npm install mineflayer
   $ pip install mcstatus
