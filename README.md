@@ -33,10 +33,10 @@ Installing Rage:
   ```
 
 If u want to check for Whitelist:
-  Open bot.js in the Rage folder and enter ur Minecraft account info.
+  Open bot.js in the Rage folder and enter ur Minecraft account info.\
   lines: 6,7,8
 
-  Open main.py and set checkwhitelist to True
+  Open main.py and set checkwhitelist to True\
   line: 8
 
 Running
