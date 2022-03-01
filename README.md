@@ -38,9 +38,8 @@ Installing Rage:
 
     Open main.py and set checkwhitelist to True
     line: 8
-    ```
+
     checkwhitelist = True
-    ```
 
 Running
 --------
