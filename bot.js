@@ -6,7 +6,7 @@ try {
         username: '', // account email or username
         password: '', // account password
         auth: '', // account type (mojang or microsoft)
-        version: '1.18.1', // version u wanna scan (1.18.1 recommendet)
+        version: '1.18.1', // version u wanna scan (1.18.1 recommended)
         hideErrors: "True"
     });
 
