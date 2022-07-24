@@ -14,8 +14,8 @@ Installing Node & npm
 
   Arch:
   ```
-  $ pacman -S nodejs
-  $ pacman -S npm
+  $ sudo pacman -S nodejs
+  $ sudo pacman -S npm
   ```
 
   CentOS, Fedora:
@@ -32,8 +32,8 @@ Installing Rage:
   $ pip install mcstatus
   ```
 
-If u want to check for Whitelist:
-  Open bot.js in the Rage folder and enter ur Minecraft account info.\
+If you want to check for Whitelist:
+  Open bot.js in the Rage folder and enter your Minecraft account info.\
   lines: 6,7,8
 
   Open main.py and set checkwhitelist to True\
@@ -41,7 +41,7 @@ If u want to check for Whitelist:
 
 Running
 --------
-Its simple. just execute the main.py:
+It's simple. just execute the main.py:
 ```
 python3 main.py
 ```
